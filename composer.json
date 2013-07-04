@@ -1,0 +1,14 @@
+{
+    "name": "peschee/silex-session-bug",
+    "description": "A sample silex app to test the session service provider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Siska",
+            "email": "pesche@gridonic.ch"
+        }
+    ],
+    "require": {
+        "silex/silex": "*"
+    }
+}
